@@ -11,3 +11,7 @@
     System.out.println("Hello World!");
   }
 ```
+
+- [ ] Wake up
+- [ ] Grab a brush
+- [ ] Put on a little make-up
