@@ -4,4 +4,4 @@
 
 ###### This is an H6 header
 
-This is just a test w/ the headers.
+![image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
