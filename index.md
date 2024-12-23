@@ -5,3 +5,9 @@
 ###### This is an H6 header
 
 ![image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` java
+  for(int i = 0; i<5; i++) {
+    System.out.println("Hello World!");
+  }
+```
